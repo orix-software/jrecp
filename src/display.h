@@ -1,0 +1,2 @@
+extern unsigned char display_letter(unsigned char x, unsigned char y, unsigned char letter);
+extern void display_pic(unsigned char x, unsigned char y, unsigned char length, unsigned char height, unsigned char pic[]);
